@@ -21,7 +21,7 @@ repository               : "academicpages/saishaozio.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"头像
+  avatar           : "https://s21.ax1x.com/2024/10/05/pA8NvZD.webp"头像
   name             : "赛少zio"
   pronouns         : # example: "男r"  
   bio              : "帅气" 个人介绍
