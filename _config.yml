@@ -21,14 +21,14 @@ repository               : "academicpages/saishaozio.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://s21.ax1x.com/2024/10/05/pA8NvZD.webp"头像
+  avatar           : "https://s21.ax1x.com/2024/10/05/pA8NvZD.webp"
   name             : "赛少zio"
-  pronouns         : # example: "男r"  
-  bio              : "帅气" 个人介绍
-  location         : "宇宙"住址
-  employer         : "红星大学"学校
+  pronouns         : # example: "男"  
+  bio              : "帅气" 
+  location         : "宇宙"
+  employer         : "红星大学"
   uri              : # URL
-  email            : "2541355422@qq.com/saishaozio520@gmail.com" 邮箱
+  email            : "2541355422@qq.com/saishaozio520@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
